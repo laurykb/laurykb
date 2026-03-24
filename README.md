@@ -24,15 +24,15 @@ Je construis mes compétences autour de la **sécurité**, des **infrastructures
 | Dépôt | Description |
 |--------|-------------|
 | [**safety_ai**](https://github.com/laurykb/safety_ai) | Modèles et méthodes d’IA pour détecter des formulations liées au **cyberharcèlement** dans le texte. |
-| [**rag_project**](https://github.com/laurykb/rag_project) | Projet **RAG** (recherche augmentée par génération) en Python. |
+| [**rag_project**](https://github.com/laurykb/rag_project) | Projet **RAG** (recherche augmentée par génération) en Python en utilisant LangChain & LangGraph. |
 | [**simulation-of-disease-using-docker**](https://github.com/laurykb/simulation-of-disease-using-docker) | Simulation et conteneurisation avec **Docker** (Python). |
-| [**ginflix**](https://github.com/laurykb/ginflix) | Projet applicatif type streaming / catalogue (voir le repo pour le détail). |
+| [**ginflix**](https://github.com/laurykb/ginflix) | Projet applicatif d'une application de streaming utilisant KIND (Kubernetes in Docker) (voir le repo pour le détail). |
 
 ---
 
 ## Stack & centres d’intérêt
 
-`Python` · `Docker` · `Cloud` · `Cybersécurité` · `IA / ML` · `LLM & RAG`
+`Python` · `Docker / K8s ` · `Cloud` · `Cybersécurité` · `IA / ML` · `LLM & RAG`
 
 ---
 

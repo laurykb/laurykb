@@ -36,8 +36,3 @@ Je construis mes compétences autour de la **sécurité**, des **infrastructures
 
 ---
 
-## En ce moment
-
-- Approfondir **cloud**, **sécurité** et usages *AI**
-
----

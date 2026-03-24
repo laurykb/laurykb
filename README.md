@@ -2,8 +2,8 @@
 
 # Laury Kibamba
 
-**Apprenti·e ingénieur·e — Cybersécurité · Cloud · IA**  
-*Télécom Paris · Thales · Paris*
+**Apprenti ingénieur — Cybersécurité · Cloud · IA**  
+*Télécom Paris · Thales*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Laury_Kibamba-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laury-kibamba-55a5101ba/)
 [![GitHub](https://img.shields.io/badge/GitHub-laurykb-181717?style=flat&logo=github&logoColor=white)](https://github.com/laurykb)

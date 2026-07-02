@@ -1,38 +1,54 @@
-<div align="center">
+<h1 align="center">Laury Kibamba</h1>
 
-# Laury Kibamba
+<p align="center">
+  <b>AI Engineer</b> — systèmes multi-agents · RAG · LLM en production<br>
+  <em>Systèmes LLM de bout en bout : conception, évaluation chiffrée, déploiement.</em><br>
+  Apprenti ingénieur @ Télécom Paris × Thales · en recherche d'un poste d'AI Engineer
+</p>
 
-**Apprenti ingénieur — Cybersécurité · Cloud · IA**  
-*Télécom Paris · Thales*
+<p align="center">
+  <a href="https://www.linkedin.com/in/laury-kibamba-55a5101ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/laurykb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laury_Kibamba-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laury-kibamba-55a5101ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-laurykb-181717?style=flat&logo=github&logoColor=white)](https://github.com/laurykb)
+<hr>
 
+<h2 align="center">Projets</h2>
 
-</div>
+<p align="center">
+  <a href="https://github.com/laurykb/ai_for_requirements"><b>AI for SSH / LynX</b></a> — RAG souverain + système multi-agents<br>
+  Retrieval évalué <code>hit@k 0.93</code> · verdict sur les exigences <code>F1 0.95</code> · serveur MCP · agent ReAct · 100 % local
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/laurykb/AI_for_geopolitics"><b>AI for Geopolitics</b></a> — simulation multi-agents pilotée par LLM<br>
+  Pays-agents sur données réelles (World Bank / IMF / SIPRI) · sorties JSON contraintes + repli rule-based · RAG sourcé
+</p>
 
-## À propos
+<p align="center">
+  <a href="https://github.com/laurykb/ginflix"><b>Ginflix</b></a> — plateforme VOD, 5 microservices sur Kubernetes<br>
+  Découpage gRPC / HLS / MongoDB · segmentation réseau Cilium · CI sécurité (Trivy · Gitleaks · KICS)
+</p>
 
-Je construis mes compétences autour de la **sécurité**, des **infrastructures cloud** et de l’**intelligence artificielle**, avec une approche concrète : projets, expérimentation et apprentissage continu.
+<hr>
 
----
+<h2 align="center">Stack</h2>
 
-## Projets en vedette
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
-| Dépôt | Description |
-|--------|-------------|
-| [**safety_ai**](https://github.com/laurykb/safety_ai) | Modèles et méthodes d’IA pour détecter des formulations liées au **cyberharcèlement** dans le texte. |
-| [**rag_project**](https://github.com/laurykb/rag_project) | Projet **RAG** (recherche augmentée par génération) en Python en utilisant LangChain & LangGraph. |
-| [**simulation-of-disease-using-docker**](https://github.com/laurykb/simulation-of-disease-using-docker) | Simulation et conteneurisation avec **Docker** (Python). |
-| [**ginflix**](https://github.com/laurykb/ginflix) | Projet applicatif d'une application de streaming utilisant KIND (Kubernetes in Docker) (voir le repo pour le détail). |
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
 
----
-
-## Stack & centres d’intérêt
-
-`Python` · `Docker / K8s ` · `Cloud` · `Cybersécurité` · `IA / ML` · `LLM & RAG`
-
----
-
+<p align="center">
+  <em>RAG hybride (BM25 + dense · RRF · reranking) · agents (MCP · ReAct) · évaluation (hit@k / recall / F1)</em>
+</p>

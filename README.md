@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/laurykb/ai_for_requirements"><b>AI for SSH / LynX</b></a> — RAG souverain + système multi-agents<br>
-  Retrieval évalué <code>hit@k 0.93</code> · verdict sur les exigences <code>F1 0.95</code> · serveur MCP · agent ReAct · 100 % local
+ serveur MCP · agent ReAct · 100 % local
 </p>
 
 <p align="center">

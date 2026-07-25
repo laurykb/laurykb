@@ -16,11 +16,6 @@
 <h2 align="center">Projets</h2>
 
 <p align="center">
-  <a href="https://github.com/laurykb/ai_for_requirements"><b>AI for SSH / LynX</b></a> — RAG souverain + système multi-agents<br>
- serveur MCP · agent ReAct · 100 % local
-</p>
-
-<p align="center">
   <a href="https://github.com/laurykb/AI_for_geopolitics"><b>AI for Geopolitics</b></a> — simulation multi-agents pilotée par LLM<br>
   Pays-agents sur données réelles (World Bank / IMF / SIPRI) · sorties JSON contraintes + repli rule-based · RAG sourcé
 </p>
